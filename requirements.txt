@@ -1,3 +1,5 @@
+fastapi
+uvicorn
 pytesseract
 pdf2image
 pillow
