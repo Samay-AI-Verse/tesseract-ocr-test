@@ -1,4 +1,1 @@
-﻿# tesseract-ocr-test
-
-
 
