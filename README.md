@@ -1,1 +1,16 @@
+﻿# tesseract-ocr-test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
